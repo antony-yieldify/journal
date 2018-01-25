@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">React Journal Project</h1>
-          <p>Created by Antony West</p>
+          <p>Created by Antony West for Yieldify</p>
         </header>
       </div>
     );
